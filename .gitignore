@@ -1,0 +1,89 @@
+*.opensdf
+
+*.sdf
+
+*.ipch
+
+*.suo
+
+*.exp
+
+*.ilk
+
+*.pdb
+
+*.iobj
+
+*.ipdb
+
+*.aps
+
+*.user
+
+*.tlog
+
+*.obj
+
+*.log
+
+*.res
+
+*.idb
+
+*.pch
+
+*.lastbuildstate
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+
+# Directories
+
+ipch
+
+Debug
+
+Release
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+
+*.lai
+
+*.la
+
+*.a
+
+*.lib
+
+
+# Executables
+
+*.exe
+
+*.dll
+
+*.lib
+
+*.out
+
+*.app
